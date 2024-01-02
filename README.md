@@ -108,7 +108,6 @@ if __name__ == '__main__':
 </div>
 <br/>
 
-<br>
 <div align="center">
             <a href="https://www.buymeacoffee.com/saidulislae" target="_blank" style="display: inline-block;">
                 <img
@@ -116,4 +115,3 @@ if __name__ == '__main__':
                     align="center"
                 />
             </a></div>
-<br />
