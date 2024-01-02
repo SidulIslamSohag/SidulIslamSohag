@@ -33,7 +33,7 @@ if __name__ == '__main__':
 ```
 
 
-<h2> Languages and Tools: </h2>
+### Languages and Tools:
 
 <p2 align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
