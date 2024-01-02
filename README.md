@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/mdabusufian">Sidul Islam Sohag</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
 
 ### 😃 About Me:
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 
 I am a learner. I believe in hard work and efficiency. I always like to learn about new technology and have
 experience with new things. Always learning new things and ready to prove myself through my work and
@@ -17,8 +17,6 @@ responsibility. I am someone who takes work ethics very seriously. I am honest i
 - 🌩️  Fun fact: Crazy about Coffee ☕.
 - ✨  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
-<a href="https://github.com/SidulIslamSohag/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/SidulIslamSohag/github-profile-trophy"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=SidulIslamSohag&column=9&theme=gruvbox&no-frame=true"/> </a>
 
 ```python
 class SidulIslamSohag():
@@ -35,6 +33,8 @@ if __name__ == '__main__':
     me = SidulIslamSohag()
 ```
 
+<a href="https://github.com/SidulIslamSohag/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/SidulIslamSohag/github-profile-trophy"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=SidulIslamSohag&column=9&theme=gruvbox&no-frame=true"/> </a>
 
 ## Languages and Tools:
 
