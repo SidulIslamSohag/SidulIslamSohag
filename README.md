@@ -33,7 +33,7 @@ if __name__ == '__main__':
 ```
 
 
-# Languages and Tools:
+## Languages and Tools:
 
 <p2 align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -84,7 +84,7 @@ if __name__ == '__main__':
 </p3> 
 <!--- stats (end) -->
 
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&label=Profile%20views&color=0e75b6&style=flat" alt="SidulIslamSohag" /></h2>
+<h2> 🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&label=Profile%20views&color=0e75b6&style=flat" alt="SidulIslamSohag" /></h2>
 <p4 align="center">
 <a href="mailto:saidulislamsohag2395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saidulislamsohag2395@gmail.com-white?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/sidul-islam-sohag-52a84b160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidul Islam Sohag-blue?style=flat&logo=linkedin"></a>
