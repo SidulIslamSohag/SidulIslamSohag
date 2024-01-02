@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SidulIslamSohag" alt="SidulIslamSohag" /></a> </p>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SidulIslamSohag&column=9&theme=gruvbox&no-frame=true"/>
+</a>
+
 I am a learner. I believe in hard work and efficiency. I always like to learn about new technology and have
 experience with new things. Always learning new things and ready to prove myself through my work and
 responsibility. I am someone who takes work ethics very seriously. I am honest in my work. Always try to make my world peaceful & beautiful. I am also an enthusiastic, self-motived, reliable, responsible and hard-working person.
