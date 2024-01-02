@@ -84,7 +84,7 @@ if __name__ == '__main__':
 </p3> 
 <!--- stats (end) -->
 
-<h2> 🤝 Connect with me <img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&label=Profile%20views&color=0e75b6&style=flat" alt="SidulIslamSohag" /></h2>
+## 🤝 Connect with me
 
 <p4 align="center">
 <a href="mailto:saidulislamsohag2395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saidulislamsohag2395@gmail.com-white?style=flat&logo=gmail"></a>
@@ -103,9 +103,11 @@ if __name__ == '__main__':
   </br>
 </div>
 
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&&style=flat-square" align="center" />
 </div> 
+
 
 <br/>  
 
