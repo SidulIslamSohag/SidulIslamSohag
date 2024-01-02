@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
 
 
-<h3>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&label=Profile%20views&color=0e75b6&style=flat" alt="SidulIslamSohag" /> </h3>
+<h3 align="left">🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&label=Profile%20views&color=0e75b6&style=flat" alt="SidulIslamSohag" /> </h3>
 
 <p4 align="center">
 <a href="mailto:saidulislamsohag2395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saidulislamsohag2395@gmail.com-white?style=flat&logo=gmail"></a>
