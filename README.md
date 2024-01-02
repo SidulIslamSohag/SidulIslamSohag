@@ -61,7 +61,7 @@ if __name__ == '__main__':
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p2>
 
-## My Statistics:
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My Statistics: </h2>
 
 <!--- stats (start) -->
 <p3 align="center">
