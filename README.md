@@ -9,7 +9,7 @@ experience with new things. Always learning new things and ready to prove myself
 responsibility. I am someone who takes work ethics very seriously. I am honest in my work. Always try to make my world peaceful & beautiful. I am also an enthusiastic, self-motived, reliable, responsible and hard-working person.
 
   
-- 🔭  I'm currently working as Software Quality Assurance (SQA)!
+- 🔭  I'm currently working as a Software Quality Assurance (SQA)!
 - 🌱  I'm currently learning Python, Colab, JIRA as a project management, API Testing Basic work, bug report for the project, (Usability testing on Windows, Android and iOS mobile devices), Test Case writing, and Many More.
 - 👯  I'm looking to collaborate with other SQA Experts.
 - 🥅  2024 goals: My goal is to travel to Canada in order to complete my Master's program.
