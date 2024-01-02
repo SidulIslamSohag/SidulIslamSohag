@@ -1,6 +1,6 @@
 <p1 align="center"><img src="https://raw.githubusercontent.com/SidulIslamSohag/sidulislamsohag/main/header.png"> </p1>
 
-<h1 align="center">Hi, I am <a href="https://github.com/mdabusufian">Sidul Islam Sohag</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/mdabusufian">Sidul Islam Sohag</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
 
 ### 😃 About Me:
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
 ```
 
 
-<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Languages and Tools: </h2>
+<h2> Languages and Tools: </h2>
 
 <p2 align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
