@@ -33,7 +33,6 @@ if __name__ == '__main__':
 ```
 
 
-
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Languages and Tools: </h2>
 
 <p2 align="left">
