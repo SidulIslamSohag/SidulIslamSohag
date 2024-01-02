@@ -88,8 +88,8 @@ if __name__ == '__main__':
 
 <p4 align="center">
 <a href="mailto:saidulislamsohag2395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saidulislamsohag2395@gmail.com-white?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/sidul-islam-sohag-52a84b160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidul Islam Sohag-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/SidulIslamSohag"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sidul Islam Sohag-black?style=flat&logo=GitHub"></a>
+<a href="https://www.linkedin.com/in/sidul-islam-sohag-52a84b160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidul Islam Sohag-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.facebook.com/Sidul.Islam.Sohag.786/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Sidul Islam Sohag-gree?style=flat&logo=Facebook"></a>
 <a href="https://www.youtube.com/channel/UCjVmy_enWBPOuRsnnmndr9w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Sidul Islam Sohag Live-red?style=flat&logo=Youtube"></a>
 </p4>
