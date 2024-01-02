@@ -83,7 +83,9 @@ if __name__ == '__main__':
 </table>
 </p3> 
 <!--- stats (end) -->
+
 <h2> 🤝 Connect with me <img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&label=Profile%20views&color=0e75b6&style=flat" alt="SidulIslamSohag" /></h2>
+
 <p4 align="center">
 <a href="mailto:saidulislamsohag2395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-saidulislamsohag2395@gmail.com-white?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/sidul-islam-sohag-52a84b160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidul Islam Sohag-blue?style=flat&logo=linkedin"></a>
@@ -94,7 +96,7 @@ if __name__ == '__main__':
 
 
 <div align="center">
-<h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h4>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3>
 
   <br>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
