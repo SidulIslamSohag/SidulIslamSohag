@@ -1,4 +1,4 @@
-<p1 align="center"><img src="https://raw.githubusercontent.com/SidulIslamSohag/sidulislamsohagmain/header.png"> </p1>
+<p1 align="center"><img src="https://raw.githubusercontent.com/SidulIslamSohag/sidulislamsohag/main/header.png"> </p1>
 
 <h1 align="center">Hi, I am <a href="https://github.com/mdabusufian">Sidul Islam Sohag</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
 
