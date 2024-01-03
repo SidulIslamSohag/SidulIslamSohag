@@ -83,7 +83,7 @@ if __name__ == '__main__':
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=SidulIslamSohag&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=SidulIslamSohag&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
   <img  title="" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SidulIslamSohag&theme=tokyonight&hide_border=false" /> 
 </td>
