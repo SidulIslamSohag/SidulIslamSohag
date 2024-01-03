@@ -73,7 +73,8 @@ if __name__ == '__main__':
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p2>
-####
+
+
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My Statistics: </h2>
 
 <!--- stats (start) -->
@@ -82,41 +83,21 @@ if __name__ == '__main__':
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SidulIslamSohag&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=SidulIslamSohag&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SidulIslamSohag&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SidulIslamSohag&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SidulIslamSohag&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
   
   </td>
 </tr>
 </table>
 </p>        
 <!--- stats (end) -->
-### Alo
-<!--- stats (start) -->
-<p3 align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SidulIslamSohag&theme=white&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SidulIslamSohag&theme=white&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SidulIslamSohag&theme=white&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
-  </td>
-</tr>
-</table>
-</p3> 
-<!--- stats (end) -->
 
 ## 🤝 Connect with me:
 
