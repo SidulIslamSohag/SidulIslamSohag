@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I am <a href="https://github.com/SidulIslamSohag"> Sidul Islam Sohag </a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
 
 ### 😃 About Me:
-<img align="right" alt="GIFs
-  " width="400" src="https://giphy.com/gifs/gola-andregola-suadinho-SiEF80pqzJHhM3dOw0">
 
 
 I am a learner. I believe in hard work and efficiency. I always like to learn about new technology and have
