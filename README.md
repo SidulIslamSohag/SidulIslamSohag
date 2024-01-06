@@ -4,7 +4,7 @@
 
 ### 😃 About Me:
 <img align="right" alt="GIFs
-  " width="400" src="https://www.google.com/search?q=hard+work+gif&tbm=isch&ved=2ahUKEwiQ4a3_wcmDAxUc9DgGHZAVDxwQ2-cCegQIABAA&oq=hard+work+gif&gs_lcp=CgNpbWcQAzIHCAAQgAQQEzIHCAAQgAQQEzIHCAAQgAQQEzIHCAAQgAQQEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzIICAAQBRAeEBMyCAgAEAUQHhATMggIABAFEB4QEzoICAAQBxAeEBNQghBY-RpggR1oAHAAeACAAXOIAacDkgEDMC40mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=eKyZZZDFBZzo4-EPkKu84AE&bih=695&biw=1536&rlz=1C1KNTJ_enBD1071BD1071#imgrc=jzD7CiqxasA1SM">
+  " width="400" src="https://giphy.com/gifs/gola-andregola-suadinho-SiEF80pqzJHhM3dOw0">
 
 
 I am a learner. I believe in hard work and efficiency. I always like to learn about new technology and have
