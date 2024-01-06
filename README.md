@@ -105,8 +105,6 @@ if __name__ == '__main__':
 <a href="https://www.linkedin.com/in/sidul-islam-sohag-52a84b160/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sidul Islam Sohag-blue?style=flat&logo=linkedin"> </a>
 <a href="https://github.com/SidulIslamSohag"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Sidul Islam Sohag-black?style=flat&logo=GitHub"> </a>
 <a href="https://www.facebook.com/Sidul.Islam.Sohag.786/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Sidul Islam Sohag-gree?style=flat&logo=Facebook"> </a>
-<a href="https://www.youtube.com/channel/UCjVmy_enWBPOuRsnnmndr9w"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-Sidul Islam Sohag Live-red?style=flat&logo=Youtube"> </a>
-<a href="https://www.youtube.com/@DCarHouse"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-D Car House-red?style=flat&logo=Youtube"> </a>
 </p4>
 
 
@@ -117,12 +115,6 @@ if __name__ == '__main__':
 <br/> 
 </div>
 
-<br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&&style=flat-square" align="center" />
-</div>
-<br/>
-
 <div align="center">
            <a href="https://www.buymeacoffee.com/saidulislae" target="_blank" style="display: inline-block;">
                 <img
@@ -131,3 +123,9 @@ if __name__ == '__main__':
                 />
            </a>
 </div>
+
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SidulIslamSohag&&style=flat-square" align="center" />
+</div>
+<br/>
