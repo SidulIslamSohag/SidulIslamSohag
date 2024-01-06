@@ -4,7 +4,6 @@
 
 ### 😃 About Me:
 
-
 I am a learner. I believe in hard work and efficiency. I always like to learn about new technology and have
 experience with new things. Always learning new things and ready to prove myself through my work and
 responsibility. I am someone who takes work ethics very seriously. I am honest in my work. Always try to make my world peaceful & beautiful. I am also an enthusiastic, self-motived, reliable, responsible and hard-working person.
