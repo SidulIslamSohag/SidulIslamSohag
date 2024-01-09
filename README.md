@@ -1,6 +1,6 @@
 <p1 align="center"><img src="https://raw.githubusercontent.com/SidulIslamSohag/sidulislamsohag/main/header.png"> </p1>
 
-<h1 align="center">Hi, I am <a href="https://github.com/SidulIslamSohag"> Sidul Islam Sohag </a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/SidulIslamSohag"> Sidul Islam Sohag </a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/> </h1>
 
 ### 😃 About Me:
 
