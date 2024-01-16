@@ -73,17 +73,7 @@ if __name__ == '__main__':
 </p2>
 
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
-
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> My Statistics: </h2>
-
 
 <!--- stats (start) -->
 <p align="center">
